@@ -16,7 +16,7 @@ const Navbar = () => {
                     <div className="menu p-5 flex justify-between flex-wrap pt-[30px]">
                         <div className="menu-logo ml-[30px] px-[15px]">
                             <Link to='#'>
-                                <img src="src/assets/images/logo.png" alt="logo" />
+                                <img src="./assets/images/logo.png" alt="logo" />
                             </Link>
                         </div>
                         <div className="menu-pages flex flex-wrap px-[15px]">
