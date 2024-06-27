@@ -8,7 +8,7 @@ return (
   <div className="container">
     <div className="main flex-col flex-wrap text-center px-[15px] py-[30px]">
       <div className="main-img flex justify-center">
-        <img className="rounded-full mb-[21px]" src="src/assets/images/parson-img.png" alt="img" />
+        <img className="rounded-full mb-[21px]" src="./assets/images/parson-img.png" alt="img" />
       </div>
       <h4>
         <Link className="text-[26px] font-medium text-black mb-2 font-slab dark:text-white " to="#">
